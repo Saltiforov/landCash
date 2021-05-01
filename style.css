@@ -120,6 +120,7 @@ section.bl1 a {
     right: 0;
     width: 130px;
     bottom: 45px;
+    text-decoration: none;
 }
 section.bl1 a + p {
     font-weight: 600;
