@@ -30,8 +30,8 @@ h2 {
     text-transform: uppercase;
 }
 section.bl1 {
-    background-image: url("img/main-bg.png");
-    padding-bottom: 0px;
+    background-image: url("img/main-bg-cp.png");
+    padding-bottom: 0;
     background-size: 100% 100%;
     -moz-background-size: 100% 100%;
     -webkit-background-size: 100% 100%;
@@ -120,7 +120,6 @@ section.bl1 a {
     right: 0;
     width: 130px;
     bottom: 45px;
-    text-decoration: auto;
 }
 section.bl1 a + p {
     font-weight: 600;
